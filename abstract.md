@@ -1,5 +1,6 @@
-# APS-DPP 2018
+Abstract
 
+APS-DPP Nov. 7 2018
 **NP11.00071** : Phase Dynamics and Energetics in Drift Wave-Zonal Flow Turbulence
 
 ***Authors:***
